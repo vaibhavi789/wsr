@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="234px" viewBox="0 0 1440 234" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Header - 1440</title>
+    <defs>
+        <path d="M6.39488462e-13,204.279113 C209.854268,228.34375 626.978198,234 690.992144,234 C758.164985,234 1315.805,226.078125 1440,204.231054 L1440,0 L0,0 L6.39488462e-13,204.279113 Z" id="path-1"></path>
+        <linearGradient x1="97.3667869%" y1="60.1953847%" x2="3.28926282%" y2="34.8778767%" id="linearGradient-3">
+            <stop stop-color="#FF57B8" offset="0%"></stop>
+            <stop stop-color="#FF79FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="97.3667869%" y1="60.1953847%" x2="3.28926282%" y2="34.8778767%" id="linearGradient-4">
+            <stop stop-color="#893BF1" offset="0%"></stop>
+            <stop stop-color="#FF79FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Developed-idea" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Background">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="BG" fill="#322332" xlink:href="#path-1"></use>
+            <circle id="Circle---left" fill="url(#linearGradient-3)" mask="url(#mask-2)" cx="297.5" cy="570.5" r="402.5"></circle>
+            <circle id="Circle---right" fill="url(#linearGradient-4)" mask="url(#mask-2)" cx="1203" cy="-288" r="377"></circle>
+        </g>
+    </g>
+</svg>

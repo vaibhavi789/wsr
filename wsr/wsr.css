@@ -1,0 +1,36 @@
+body{
+    margin:0px;
+}
+
+.one{
+    height: 25px;
+    width: 1000px;
+    background-color: red;
+    padding:50;
+    font-size: 30px;
+    border:10px dashed black;
+   }
+/*.top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+  } */
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  /* Centered text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+  }
+  .bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+    font-size: 50px;
+  }
